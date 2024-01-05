@@ -1,6 +1,7 @@
 from Api_ip_addr import Api_ip_addr as Api_1
 from Api_country import main_country
 
+
 def main_menu():
     print("\nFullscreen (Windows OS, cmd) -> [ALT + ENTER]")
 
@@ -24,5 +25,5 @@ def main_menu():
             print("*invalid input*")
 # ======================================
 
-main_menu()
+# main_menu()
 

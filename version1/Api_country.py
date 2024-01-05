@@ -194,9 +194,9 @@ def main_country() -> None:
     print("- Type 'esc' to leave")
     print("- Type 'save' to save data to a text file")
     
-    print("\nEnter a country name to display detils about that country")
-    print("(use '-important' to display the important information about a country)")
-    print("OR 'all' to display all country names")
+    print("\n- Enter a *country name* to display detils about that country")
+    print("- _use '-important' to display the important information about a country_")
+    print("- Type 'all' to display all country names")
 
     # obj.check_connection()
     # print(obj.internet_connection())
